@@ -1,2 +1,2 @@
 # Readme
-A note about Direct Memory Access.
+A comparison between Traditional Memory Access and Direct Memory Access.
