@@ -1,2 +1,2 @@
 # Readme
-A note about DMA.
+A note about Direct Memory Access.
