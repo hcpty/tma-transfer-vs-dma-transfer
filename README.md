@@ -1,2 +1,2 @@
-# dma
+# Readme
 A note about DMA.
