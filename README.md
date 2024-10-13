@@ -1,6 +1,8 @@
 # Readme
 A comparison between Traditional Memory Access Transfer and Direct Memory Access Transfer.
 
+### Contents
+
 ```
 问题：在外设缓冲和内核外设缓冲之间拷贝一份数据。
 ```
@@ -17,5 +19,5 @@ A comparison between Traditional Memory Access Transfer and Direct Memory Access
 3. DMA Controller中断CPU
 ```
 
-Credits:
+### Credits
 - [Direct memory access - Wikipedia](https://en.wikipedia.org/wiki/Direct_memory_access)
