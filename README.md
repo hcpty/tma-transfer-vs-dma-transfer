@@ -16,3 +16,6 @@ A comparison between Traditional Memory Access Transfer and Direct Memory Access
 2. DMA Controller控制传输
 3. DMA Controller中断CPU
 ```
+
+Credits:
+- [Direct memory access - Wikipedia](https://en.wikipedia.org/wiki/Direct_memory_access)
