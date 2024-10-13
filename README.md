@@ -6,16 +6,12 @@ A comparison between Traditional Memory Access and Direct Memory Access.
 ```
 
 ```
-方式1：Traditional Memory Access
-
-过程如下：
+方式1：Traditional Memory Access：
 1. CPU控制传输
 ```
 
 ```
-方式2：Direct Memory Access
-
-过程如下：
+方式2：Direct Memory Access：
 1. CPU发起传输
 2. DMA Controller控制传输
 3. DMA Controller中断CPU
