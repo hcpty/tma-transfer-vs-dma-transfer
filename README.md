@@ -12,7 +12,7 @@ A comparison between Traditional Memory Access and Direct Memory Access.
 
 ```
 解法2：Direct Memory Access：
-1. CPU发起传输
+1. CPU向DMA Controller发送传输指令
 2. DMA Controller控制传输
 3. DMA Controller中断CPU
 ```
