@@ -11,7 +11,7 @@ A comparison between Traditional Memory Access Transfer and Direct Memory Access
 ```
 
 ```
-解法2：Direct Memory Access Transfer，不会浪费CPU周期，需要使用DMA Controller：
+解法2：Direct Memory Access Transfer，需要使用DMA Controller，不会浪费CPU周期：
 1. CPU向DMA Controller发出传输指令
 2. DMA Controller控制传输
 3. DMA Controller中断CPU
