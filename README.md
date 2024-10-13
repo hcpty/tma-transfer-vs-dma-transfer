@@ -1,8 +1,6 @@
 # Readme
 A comparison between Traditional Memory Access Transfer and Direct Memory Access Transfer.
 
-### Contents
-
 ```
 问题：在外设缓冲和内核外设缓冲之间拷贝一份数据。
 ```
