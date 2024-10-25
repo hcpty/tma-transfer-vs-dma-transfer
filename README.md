@@ -1,7 +1,7 @@
 # Readme
-A comparison between Traditional Memory Access Transfer and Direct Memory Access Transfer.
+A comparison between Traditional Memory Access Transfer (TMA) and Direct Memory Access Transfer (DMA).
 
-### Traditional Memory Access Transfer vs Direct Memory Access Transfer
+### Traditional Memory Access Transfer (TMA) vs Direct Memory Access Transfer (DMA)
 
 问题：在外设缓冲和内核外设缓冲之间拷贝一份数据。
 
